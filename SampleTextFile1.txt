@@ -2,3 +2,4 @@ Commit Revert 1
 
 This is Sample File 1
 This is comparison lecture
+THis is a stash lecture ,change in file1
